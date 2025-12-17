@@ -11,7 +11,7 @@ import ChineseSimplified from "./ChineseSimplified.js"
 import Spanish from "./Spanish.js";
 import Portuguese from "./Portuguese.js";
 import Ukrainian from './Ukrainian.js';
-
+import Polish from './Polish.js';
 /**
  * Here we use 2-character lowercase ISO 639-1 codes.
  * https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
@@ -27,4 +27,5 @@ export default {
     'pt': Portuguese,
     'es': Spanish,
     'uk': Ukrainian,
+    'pl': Polish,
 };
